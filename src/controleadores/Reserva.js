@@ -122,4 +122,5 @@ module.exports ={
     postReserva,
     validarReserva,
     getReservaByFechas,
+    getReservas
 }
